@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/pokedex"
+        android:title="Pokédex"
+        android:icon="@drawable/pokeball"/>
+    <item
+        android:id="@+id/map"
+        android:title="Carte"
+        android:icon="@drawable/map"/>
+    <item
+        android:id="@+id/inventory"
+        android:title="Inventaire"
+        android:icon="@drawable/toolkit"/>
+</menu>

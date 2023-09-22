@@ -1,0 +1,1002 @@
+[
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p31.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p31.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-xxxhdpi_fee.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-xxxhdpi/fee.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p84.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p84.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-xxxhdpi_electrique.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-xxxhdpi/electrique.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p68.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p68.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p7.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p7.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p15.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p15.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p128.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p128.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p150.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p150.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p23.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p23.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p76.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p76.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p136.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p136.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p144.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p144.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-xxxhdpi_roche.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-xxxhdpi/roche.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-xxhdpi_sol.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-xxhdpi/sol.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p119.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p119.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p85.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p85.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p40.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p40.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_dragon.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/dragon.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-anydpi-v24_roche.xml.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-anydpi-v24/roche.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p135.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p135.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p91.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p91.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p151.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p151.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p75.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p75.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p24.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p24.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p69.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p69.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p129.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p129.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p30.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p30.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p82.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p82.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p59.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p59.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p8.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p8.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p145.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p145.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p33.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p33.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p5.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p5.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p134.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p134.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.og.pokemonog.app-main-7:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p74.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p74.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_pokeball.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/pokeball.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p142.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p142.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-xxxhdpi_sol.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-xxxhdpi/sol.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-ldpi_normal.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-ldpi/normal.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p77.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p77.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p13.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p13.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.og.pokemonog.app-main-7:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p127.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p127.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p101.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p101.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p152.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p152.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_vol.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/vol.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p92.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p92.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p26.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p26.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p41.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p41.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-anydpi-v24_tenebre.xml.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-anydpi-v24/tenebre.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-mdpi_sol.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-mdpi/sol.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p67.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p67.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p137.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p137.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p16.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p16.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_feu.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/feu.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-mdpi_acier.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-mdpi/acier.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p124.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p124.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p57.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p57.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p12.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p12.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/layout_pokemon_item.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/layout/pokemon_item.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p20.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p20.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p80.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p80.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p65.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p65.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-xhdpi_sol.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-xhdpi/sol.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/layout_inventory_fragment.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/layout/inventory_fragment.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p102.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p102.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p87.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p87.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.og.pokemonog.app-main-7:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p109.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p109.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p110.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p110.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p155.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p155.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_map.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/map.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_insecte.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/insecte.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p131.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p131.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p81.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p81.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p94.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p94.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-xxhdpi_fee.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-xxhdpi/fee.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-xhdpi_tenebre.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-xhdpi/tenebre.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p66.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p66.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p79.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p79.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-xhdpi_acier.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-xhdpi/acier.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_star.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/star.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_poison.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/poison.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p148.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p148.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p72.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p72.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p18.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p18.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p11.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p11.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p103.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p103.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_toolkit.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/toolkit.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p116.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p116.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/layout_map_fragment.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/layout/map_fragment.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-xhdpi_normal.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-xhdpi/normal.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p1.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p1.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-anydpi-v24_normal.xml.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-anydpi-v24/normal.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p25.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p25.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_eau.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/eau.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p52.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p52.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.og.pokemonog.app-main-7:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p93.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p93.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-ldpi_acier.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-ldpi/acier.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p78.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p78.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p17.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p17.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p149.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p149.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.og.pokemonog.app-main-7:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p115.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p115.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p123.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p123.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p45.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p45.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-mdpi_fee.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-mdpi/fee.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p58.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p58.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/xml_backup_rules.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p108.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p108.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-xxhdpi_roche.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-xxhdpi/roche.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p32.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p32.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/layout_activity_main.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_spectre.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/spectre.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p60.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p60.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p6.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p6.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p73.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p73.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p86.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p86.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p99.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p99.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p156.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p156.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p143.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p143.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-hdpi_sol.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-hdpi/sol.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p130.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p130.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p158.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p158.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-ldpi_tenebre.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-ldpi/tenebre.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p105.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p105.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p61.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p61.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p38.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p38.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-xxhdpi_normal.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-xxhdpi/normal.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p113.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p113.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p46.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p46.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p121.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p121.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-xxhdpi_electrique.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-xxhdpi/electrique.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-xhdpi_roche.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-xhdpi/roche.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/xml_data_extraction_rules.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p112.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p112.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p157.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p157.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p47.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p47.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-mdpi_tenebre.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-mdpi/tenebre.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p53.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p53.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.og.pokemonog.app-main-7:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p106.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p106.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p98.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p98.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-hdpi_acier.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-hdpi/acier.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/layout_pokedex_inventory.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/layout/pokedex_inventory.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-mdpi_roche.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-mdpi/roche.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p122.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p122.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p37.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p37.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p62.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p62.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p107.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p107.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-mdpi_normal.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-mdpi/normal.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-anydpi-v24_fee.xml.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-anydpi-v24/fee.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p111.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p111.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_plante.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/plante.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-xhdpi_electrique.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-xhdpi/electrique.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p44.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p44.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p97.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p97.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-xxxhdpi_acier.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-xxxhdpi/acier.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p71.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p71.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p10.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p10.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p104.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p104.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-ldpi_fee.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-ldpi/fee.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p36.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p36.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-hdpi_fee.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-hdpi/fee.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.og.pokemonog.app-main-7:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p2.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p2.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p51.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p51.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-ldpi_electrique.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-ldpi/electrique.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p64.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p64.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p114.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p114.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-hdpi_tenebre.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-hdpi/tenebre.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p39.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p39.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p54.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p54.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-xxhdpi_tenebre.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-xxhdpi/tenebre.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p29.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p29.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p139.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p139.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-hdpi_roche.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-hdpi/roche.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p27.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p27.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-anydpi-v24_acier.xml.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-anydpi-v24/acier.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.og.pokemonog.app-main-7:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p132.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p132.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p19.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p19.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p3.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p3.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p49.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p49.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.og.pokemonog.app-main-7:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_glace.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/glace.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p117.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p117.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p42.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p42.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p147.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p147.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p95.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p95.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p50.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p50.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-anydpi-v24_electrique.xml.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-anydpi-v24/electrique.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p125.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p125.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p4.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p4.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p34.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p34.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p138.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p138.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p21.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p21.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-xxhdpi_acier.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-xxhdpi/acier.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p141.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p141.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-mdpi_electrique.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-mdpi/electrique.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-ldpi_roche.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-ldpi/roche.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p154.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p154.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p56.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p56.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-ldpi_sol.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-ldpi/sol.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p88.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p88.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-hdpi_electrique.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-hdpi/electrique.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p43.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p43.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-xhdpi_fee.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-xhdpi/fee.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_house.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/house.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-hdpi_normal.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-hdpi/normal.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p100.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p100.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p118.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p118.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p14.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p14.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_combat.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/combat.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p126.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p126.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p153.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p153.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p55.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p55.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/layout_pokemon_info_item.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/layout/pokemon_info_item.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_psy.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/psy.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-xxxhdpi_tenebre.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-xxxhdpi/tenebre.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p28.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p28.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p89.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p89.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p90.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p90.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p63.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p63.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p96.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p96.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/layout_pokemon_info_fragment.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/layout/pokemon_info_fragment.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/raw_pkmn.json.flat",
+        "source": "com.og.pokemonog.app-main-7:/raw/pkmn.json"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p146.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p146.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p159.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p159.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p120.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p120.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p9.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p9.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p133.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p133.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p140.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p140.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p22.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p22.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p35.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p35.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-xxxhdpi_normal.png.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-xxxhdpi/normal.png"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable-anydpi-v24_sol.xml.flat",
+        "source": "com.og.pokemonog.app-pngs-0:/drawable-anydpi-v24/sol.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/layout_pokedex_fragment.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/layout/pokedex_fragment.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p83.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p83.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p48.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p48.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/drawable_p70.xml.flat",
+        "source": "com.og.pokemonog.app-main-7:/drawable/p70.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.og.pokemonog.app-main-7:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    }
+]

@@ -1,0 +1,130 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.og.pokemonog"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/fs03/share/users/matthieu.gourdon/home/AndroidStudioProjects/PokemonOG/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->/fs03/share/users/matthieu.gourdon/home/AndroidStudioProjects/PokemonOG/app/src/main/AndroidManifest.xml
+10
+11    <uses-feature android:name="android.hardware.location.gps" />
+11-->/fs03/share/users/matthieu.gourdon/home/AndroidStudioProjects/PokemonOG/app/src/main/AndroidManifest.xml:5:5-6:55
+11-->/fs03/share/users/matthieu.gourdon/home/AndroidStudioProjects/PokemonOG/app/src/main/AndroidManifest.xml:6:9-53
+12
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->/fs03/share/users/matthieu.gourdon/home/AndroidStudioProjects/PokemonOG/app/src/main/AndroidManifest.xml:7:5-8:54
+13-->/fs03/share/users/matthieu.gourdon/home/AndroidStudioProjects/PokemonOG/app/src/main/AndroidManifest.xml:7:22-87
+14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+14-->/fs03/share/users/matthieu.gourdon/home/AndroidStudioProjects/PokemonOG/app/src/main/AndroidManifest.xml:9:5-10:52
+14-->/fs03/share/users/matthieu.gourdon/home/AndroidStudioProjects/PokemonOG/app/src/main/AndroidManifest.xml:9:22-85
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->/fs03/share/users/matthieu.gourdon/home/AndroidStudioProjects/PokemonOG/app/src/main/AndroidManifest.xml:12:5-13:54
+15-->/fs03/share/users/matthieu.gourdon/home/AndroidStudioProjects/PokemonOG/app/src/main/AndroidManifest.xml:13:9-51
+16    <uses-permission android:name=" android.permission.ACCESS_NETWORK_STATE" />
+16-->/fs03/share/users/matthieu.gourdon/home/AndroidStudioProjects/PokemonOG/app/src/main/AndroidManifest.xml:14:5-15:44
+16-->/fs03/share/users/matthieu.gourdon/home/AndroidStudioProjects/PokemonOG/app/src/main/AndroidManifest.xml:14:5-15:44
+17    <uses-permission android:name=" android.permission.WRITE_EXTERNAL_STORAGE" />
+17-->/fs03/share/users/matthieu.gourdon/home/AndroidStudioProjects/PokemonOG/app/src/main/AndroidManifest.xml:16:5-17:46
+17-->/fs03/share/users/matthieu.gourdon/home/AndroidStudioProjects/PokemonOG/app/src/main/AndroidManifest.xml:16:5-17:46
+18
+19    <supports-screens
+19-->[org.osmdroid:osmdroid-android:6.1.10] /var/tmp/matthieu.gourdon/.gradle/caches/transforms-3/5e97f55b22eec2051144ff40a259ceed/transformed/osmdroid-android-6.1.10/AndroidManifest.xml:11:5-14:40
+20        android:anyDensity="true"
+20-->[org.osmdroid:osmdroid-android:6.1.10] /var/tmp/matthieu.gourdon/.gradle/caches/transforms-3/5e97f55b22eec2051144ff40a259ceed/transformed/osmdroid-android-6.1.10/AndroidManifest.xml:12:9-34
+21        android:largeScreens="true"
+21-->[org.osmdroid:osmdroid-android:6.1.10] /var/tmp/matthieu.gourdon/.gradle/caches/transforms-3/5e97f55b22eec2051144ff40a259ceed/transformed/osmdroid-android-6.1.10/AndroidManifest.xml:13:9-36
+22        android:normalScreens="true" />
+22-->[org.osmdroid:osmdroid-android:6.1.10] /var/tmp/matthieu.gourdon/.gradle/caches/transforms-3/5e97f55b22eec2051144ff40a259ceed/transformed/osmdroid-android-6.1.10/AndroidManifest.xml:14:9-37
+23
+24    <uses-feature
+24-->[org.osmdroid:osmdroid-android:6.1.10] /var/tmp/matthieu.gourdon/.gradle/caches/transforms-3/5e97f55b22eec2051144ff40a259ceed/transformed/osmdroid-android-6.1.10/AndroidManifest.xml:16:5-18:36
+25        android:name="android.hardware.location.network"
+25-->[org.osmdroid:osmdroid-android:6.1.10] /var/tmp/matthieu.gourdon/.gradle/caches/transforms-3/5e97f55b22eec2051144ff40a259ceed/transformed/osmdroid-android-6.1.10/AndroidManifest.xml:17:9-57
+26        android:required="false" />
+26-->[org.osmdroid:osmdroid-android:6.1.10] /var/tmp/matthieu.gourdon/.gradle/caches/transforms-3/5e97f55b22eec2051144ff40a259ceed/transformed/osmdroid-android-6.1.10/AndroidManifest.xml:18:9-33
+27    <uses-feature
+27-->[org.osmdroid:osmdroid-android:6.1.10] /var/tmp/matthieu.gourdon/.gradle/caches/transforms-3/5e97f55b22eec2051144ff40a259ceed/transformed/osmdroid-android-6.1.10/AndroidManifest.xml:22:5-24:36
+28        android:name="android.hardware.telephony"
+28-->[org.osmdroid:osmdroid-android:6.1.10] /var/tmp/matthieu.gourdon/.gradle/caches/transforms-3/5e97f55b22eec2051144ff40a259ceed/transformed/osmdroid-android-6.1.10/AndroidManifest.xml:23:9-50
+29        android:required="false" />
+29-->[org.osmdroid:osmdroid-android:6.1.10] /var/tmp/matthieu.gourdon/.gradle/caches/transforms-3/5e97f55b22eec2051144ff40a259ceed/transformed/osmdroid-android-6.1.10/AndroidManifest.xml:24:9-33
+30    <uses-feature
+30-->[org.osmdroid:osmdroid-android:6.1.10] /var/tmp/matthieu.gourdon/.gradle/caches/transforms-3/5e97f55b22eec2051144ff40a259ceed/transformed/osmdroid-android-6.1.10/AndroidManifest.xml:25:5-27:36
+31        android:name="android.hardware.wifi"
+31-->[org.osmdroid:osmdroid-android:6.1.10] /var/tmp/matthieu.gourdon/.gradle/caches/transforms-3/5e97f55b22eec2051144ff40a259ceed/transformed/osmdroid-android-6.1.10/AndroidManifest.xml:26:9-45
+32        android:required="false" />
+32-->[org.osmdroid:osmdroid-android:6.1.10] /var/tmp/matthieu.gourdon/.gradle/caches/transforms-3/5e97f55b22eec2051144ff40a259ceed/transformed/osmdroid-android-6.1.10/AndroidManifest.xml:27:9-33
+33
+34    <application
+34-->/fs03/share/users/matthieu.gourdon/home/AndroidStudioProjects/PokemonOG/app/src/main/AndroidManifest.xml:19:5-42:19
+35        android:allowBackup="true"
+35-->/fs03/share/users/matthieu.gourdon/home/AndroidStudioProjects/PokemonOG/app/src/main/AndroidManifest.xml:20:9-35
+36        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+36-->[androidx.core:core:1.7.0] /var/tmp/matthieu.gourdon/.gradle/caches/transforms-3/249713548fb8d92d9c56becf07cdffea/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+37        android:dataExtractionRules="@xml/data_extraction_rules"
+37-->/fs03/share/users/matthieu.gourdon/home/AndroidStudioProjects/PokemonOG/app/src/main/AndroidManifest.xml:21:9-65
+38        android:debuggable="true"
+39        android:fullBackupContent="@xml/backup_rules"
+39-->/fs03/share/users/matthieu.gourdon/home/AndroidStudioProjects/PokemonOG/app/src/main/AndroidManifest.xml:22:9-54
+40        android:icon="@mipmap/ic_launcher"
+40-->/fs03/share/users/matthieu.gourdon/home/AndroidStudioProjects/PokemonOG/app/src/main/AndroidManifest.xml:23:9-43
+41        android:label="@string/app_name"
+41-->/fs03/share/users/matthieu.gourdon/home/AndroidStudioProjects/PokemonOG/app/src/main/AndroidManifest.xml:24:9-41
+42        android:roundIcon="@mipmap/ic_launcher_round"
+42-->/fs03/share/users/matthieu.gourdon/home/AndroidStudioProjects/PokemonOG/app/src/main/AndroidManifest.xml:25:9-54
+43        android:supportsRtl="true"
+43-->/fs03/share/users/matthieu.gourdon/home/AndroidStudioProjects/PokemonOG/app/src/main/AndroidManifest.xml:26:9-35
+44        android:theme="@style/Theme.PokemonOG" >
+44-->/fs03/share/users/matthieu.gourdon/home/AndroidStudioProjects/PokemonOG/app/src/main/AndroidManifest.xml:27:9-47
+45        <activity
+45-->/fs03/share/users/matthieu.gourdon/home/AndroidStudioProjects/PokemonOG/app/src/main/AndroidManifest.xml:29:9-41:20
+46            android:name="com.og.pokemonog.MainActivity"
+46-->/fs03/share/users/matthieu.gourdon/home/AndroidStudioProjects/PokemonOG/app/src/main/AndroidManifest.xml:30:13-41
+47            android:exported="true" >
+47-->/fs03/share/users/matthieu.gourdon/home/AndroidStudioProjects/PokemonOG/app/src/main/AndroidManifest.xml:31:13-36
+48            <intent-filter>
+48-->/fs03/share/users/matthieu.gourdon/home/AndroidStudioProjects/PokemonOG/app/src/main/AndroidManifest.xml:32:13-36:29
+49                <action android:name="android.intent.action.MAIN" />
+49-->/fs03/share/users/matthieu.gourdon/home/AndroidStudioProjects/PokemonOG/app/src/main/AndroidManifest.xml:33:17-69
+49-->/fs03/share/users/matthieu.gourdon/home/AndroidStudioProjects/PokemonOG/app/src/main/AndroidManifest.xml:33:25-66
+50
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->/fs03/share/users/matthieu.gourdon/home/AndroidStudioProjects/PokemonOG/app/src/main/AndroidManifest.xml:35:17-77
+51-->/fs03/share/users/matthieu.gourdon/home/AndroidStudioProjects/PokemonOG/app/src/main/AndroidManifest.xml:35:27-74
+52            </intent-filter>
+53
+54            <meta-data
+54-->/fs03/share/users/matthieu.gourdon/home/AndroidStudioProjects/PokemonOG/app/src/main/AndroidManifest.xml:38:13-40:36
+55                android:name="android.app.lib_name"
+55-->/fs03/share/users/matthieu.gourdon/home/AndroidStudioProjects/PokemonOG/app/src/main/AndroidManifest.xml:39:17-52
+56                android:value="" />
+56-->/fs03/share/users/matthieu.gourdon/home/AndroidStudioProjects/PokemonOG/app/src/main/AndroidManifest.xml:40:17-33
+57        </activity>
+58
+59        <provider
+59-->[androidx.emoji2:emoji2:1.0.0] /var/tmp/matthieu.gourdon/.gradle/caches/transforms-3/534a23b582687ff41a7186a04e3a238c/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+60            android:name="androidx.startup.InitializationProvider"
+60-->[androidx.emoji2:emoji2:1.0.0] /var/tmp/matthieu.gourdon/.gradle/caches/transforms-3/534a23b582687ff41a7186a04e3a238c/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
+61            android:authorities="com.og.pokemonog.androidx-startup"
+61-->[androidx.emoji2:emoji2:1.0.0] /var/tmp/matthieu.gourdon/.gradle/caches/transforms-3/534a23b582687ff41a7186a04e3a238c/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
+62            android:exported="false" >
+62-->[androidx.emoji2:emoji2:1.0.0] /var/tmp/matthieu.gourdon/.gradle/caches/transforms-3/534a23b582687ff41a7186a04e3a238c/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
+63            <meta-data
+63-->[androidx.emoji2:emoji2:1.0.0] /var/tmp/matthieu.gourdon/.gradle/caches/transforms-3/534a23b582687ff41a7186a04e3a238c/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+64                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+64-->[androidx.emoji2:emoji2:1.0.0] /var/tmp/matthieu.gourdon/.gradle/caches/transforms-3/534a23b582687ff41a7186a04e3a238c/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+65                android:value="androidx.startup" />
+65-->[androidx.emoji2:emoji2:1.0.0] /var/tmp/matthieu.gourdon/.gradle/caches/transforms-3/534a23b582687ff41a7186a04e3a238c/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+66            <meta-data
+66-->[androidx.lifecycle:lifecycle-process:2.4.0] /var/tmp/matthieu.gourdon/.gradle/caches/transforms-3/0d1c36957947c0cced820087c8164150/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+67                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+67-->[androidx.lifecycle:lifecycle-process:2.4.0] /var/tmp/matthieu.gourdon/.gradle/caches/transforms-3/0d1c36957947c0cced820087c8164150/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+68                android:value="androidx.startup" />
+68-->[androidx.lifecycle:lifecycle-process:2.4.0] /var/tmp/matthieu.gourdon/.gradle/caches/transforms-3/0d1c36957947c0cced820087c8164150/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+69        </provider>
+70    </application>
+71
+72</manifest>

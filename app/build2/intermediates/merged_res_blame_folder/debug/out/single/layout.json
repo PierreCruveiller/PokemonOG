@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.og.pokemonog.app-mergeDebugResources-4:/layout/activity_main.xml",
+        "source": "com.og.pokemonog.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-mergeDebugResources-4:/layout/pokemon_info_item.xml",
+        "source": "com.og.pokemonog.app-main-7:/layout/pokemon_info_item.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-mergeDebugResources-4:/layout/pokemon_info_fragment.xml",
+        "source": "com.og.pokemonog.app-main-7:/layout/pokemon_info_fragment.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-mergeDebugResources-4:/layout/pokemon_item.xml",
+        "source": "com.og.pokemonog.app-main-7:/layout/pokemon_item.xml"
+    },
+    {
+        "merged": "com.og.pokemonog.app-mergeDebugResources-4:/layout/pokedex_fragment.xml",
+        "source": "com.og.pokemonog.app-main-7:/layout/pokedex_fragment.xml"
+    }
+]

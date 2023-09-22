@@ -1,0 +1,6 @@
+[
+  {"id":1,"name":"Bulbizarre","image":"p1","type1":"Plante", "type2":"Poison", "height":"0,7m", "weight":"6,9kg", "desc":"Au début de sa vie, la graine sur son dos lui fournit les nutriments dont il a besoin pour grandir."},
+  {"id":2,"name":"Herbizarre","image":"p2","type1":"Plante", "type2":"Poison", "height":"1,0m", "weight":"13,0kg", "desc":"Lorsque le bourgeon sur son dos gonfle, il dégage un doux parfum : c'est le signe que sa grande fleur va bientôt éclore."},
+  {"id":3,"name":"Florizarre","image":"p3","type1":"Plante", "type2":"Poison", "height":"2,0m", "weight":"100,0kg", "desc":"Le parfum de sa fleur est plus fort après une journée pluvieuse, ce qui appâte les autres Pokémon."},
+  {"id":4,"name":"Salamèche","image":"p4","type1":"Feu", "height":"0,6m", "weight":"8,5kg", "desc":"La flamme au bout de sa queue symbolise sa vitalité. Elle brûle intensément quand il est en bonne santé."}
+]
